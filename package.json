@@ -1,0 +1,18 @@
+{
+  "name": "typescript-docker-app",
+  "version": "1.0.0",
+  "description": "Sample TypeScript application for Docker",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "Kardespro",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
